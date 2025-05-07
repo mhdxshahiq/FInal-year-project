@@ -1,0 +1,538 @@
+Text,Department,Urgency
+"Uh, we have an issue with the oxygen tanks, and it's really urgent, you know.",Emergency,High
+"Can you, um, call me back regarding the patient's reports? It's really important.",Doctors,Medium
+"I need help with billing for the last visit, like, can someone assist me with that?",Reception,Low
+"The patient is unconscious, and we need immediate attention, like, right now.",Emergency,High
+"We're running out of stock for essential medications, uh, can you restock soon?",Pharmacy,High
+"A visitor is causing trouble at the reception desk, uh, can security handle it?",Emergency,High
+"There's a problem with the prescription system, um, it's down again.",Pharmacy,High
+"I need to schedule an appointment with the cardiologist, like, soon.",Doctors,Medium
+"Just wanted to confirm if the payment went through, um, can someone check?",Reception,Low
+"We need a cleanup crew for a spill in the hallway, uh, it's causing a hazard.",Emergency,Medium
+"Uh, the patient needs immediate attention, could someone please come, um, quickly?",Doctors,High
+"Like, we're low on stock for insulin and need a resupply, um, asap.",Pharmacy,High
+"You know, I just wanted to double-check the billing for my last visit.",Reception,Low
+"We have a major issue with the ventilation system in the ICU, uh, can someone fix it?",Emergency,High
+"Uh, I think the patient's heart rate is irregular, can someone check, um, right now?",Doctors,High
+"I mean, the pharmacy has a shortage of essential painkillers, uh, we need more.",Pharmacy,High
+"We need to expedite the surgery prep; the patient is in critical condition, uh, immediately.",Emergency,High
+"I’m calling to check on my medical bill status, you know, could you help me?",Reception,Low
+"Just, uh, wondering when the next checkup for my mother is scheduled?",Doctors,Medium
+"There's a mix-up with the lab results, we need clarification ASAP, um, can someone follow up?",Doctors,High
+"The Wi-Fi in the surgery ward is down again, can IT address this, uh, soon?",Emergency,Medium
+"Please confirm if my insurance details are updated in your system, uh, when you can.",Reception,Low
+"Uh, there's a small problem with the medical records system, can IT handle it?",Pharmacy,Medium
+"We urgently need additional staff for the night shift in the ER, like, now.",Emergency,High
+"I've got a quick question about my last prescription, uh, can I get some help?",Pharmacy,Medium
+"The patient in room 102 is requesting more pain medication, um, can someone assist?",Doctors,Medium
+"We’ve noticed a delay in getting blood reports, can someone follow up, uh, soon?",Emergency,Medium
+"I need to know if the pharmacy can fill the prescription today, uh, please confirm.",Pharmacy,Medium
+"Uh, I just wanted to report that there’s a small issue with the elevators, you know?",Emergency,Low
+"I mean, we need to verify the patient’s identity before surgery, uh, can someone assist?",Doctors,Medium
+"Just, uh, checking if my appointment was confirmed for tomorrow, um, can someone confirm?",Doctors,Low
+"The bed availability in the ICU is a bit tight, can we check again, uh, when you have time?",Emergency,Medium
+"We’ve got an issue with the hospital generator, maintenance needed, uh, please check.",Emergency,Medium
+"Can you please provide me with the details of the patient’s last test, um, when you get a chance?",Doctors,Low
+"Uh, the new patient in the Emergency room needs a check-up, like, now.",Doctors,High
+"We need to restock antibiotics in the Emergency department, uh, can you send more?",Pharmacy,High
+"Just, uh, wondering if we’ve received any new updates on the surgery schedule, you know?",Doctors,Medium
+"Can someone call me back about the insurance paperwork, uh, please?",Reception,Low
+"There's an urgent need for additional beds in the Emergency room, uh, can we get more?",Emergency,High
+"Can you confirm the status of my mother’s discharge papers, um, soon?",Doctors,Medium
+"The pharmacy is experiencing delays with the medicine orders, uh, can someone expedite?",Pharmacy,Medium
+"Uh, we're running low on surgical gloves and need more for tomorrow, like, can you help?",Pharmacy,High
+"We have a critical patient who needs immediate surgery, uh, it's really urgent.",Emergency,High
+"I need to check if the payment has been processed for my appointment, uh, when can you confirm?",Reception,Low
+"Can the Doctors confirm when the patient’s results will be available, um, soon?",Doctors,Medium
+"Uh, I’m calling to check if the MRI appointment is scheduled for today, you know?",Doctors,Low
+"I need to report a safety hazard in the hospital hallway, uh, can someone take care of it?",Emergency,High
+"We’ve got an issue with the anesthesia equipment, please send someone, uh, urgently.",Emergency,High
+"I just wanted to follow up on my blood test results, uh, when will they be ready?",Doctors,Low
+"Please confirm when the patient in room 305 can be discharged, um, if possible.",Doctors,Medium
+"Uh, the MRI machine is down, and we need it repaired ASAP, can someone handle it?",Emergency,High
+"There's a slight issue with the room's air conditioning, maintenance needed, um, please check.",Emergency,Low
+"We need to check the availability of a ventilator for a new patient, um, urgently.",Emergency,High
+"Can you confirm the list of medicines I need to get from the pharmacy, uh, please?",Pharmacy,Low
+"The security team needs to review footage from the west wing, uh, can you arrange that?",Emergency,Medium
+"Uh, the pharmacy’s having trouble with a prescription refill for a patient, um, can someone help?",Pharmacy,Medium
+"I think the oxygen tank in the ICU needs to be replaced, it's nearly empty, uh, can you help?",Emergency,High
+"Can someone confirm the stock of blood bags in the ER, uh, please?",Pharmacy,Medium
+"Just checking if the patient's records are up to date, uh, when you get a chance.",Doctors,Medium
+"We need immediate backup for the ER department, the situation is critical, uh, can you help?",Emergency,High
+"We’ve got a situation with the MRI results, um, could someone check that?",Doctors,High
+"Uh, the hospital’s heating system is malfunctioning, like, it's freezing in the hallways.",Emergency,Medium
+"I just wanted to confirm the patient’s medication schedule, um, can someone double-check?",Pharmacy,Medium
+"The ICU needs more ventilators, like, urgently. Can you arrange for more?",Emergency,High
+"I need a quick update on my billing status, you know, can someone call me back?",Reception,Low
+"The security cameras in the ER are down, uh, can IT handle that, like, ASAP?",Emergency,High
+"I’m calling to confirm if my surgery appointment was scheduled for tomorrow, uh, please let me know.",Doctors,Medium
+"Uh, the pharmacy ran out of blood pressure meds, like, can you send more?",Pharmacy,High
+"We’ve got a patient with a possible heart attack, um, can you send someone to check, uh, immediately?",Emergency,High
+"Uh, the Doctors needs the results for the tests we did last week, you know, can someone provide that?",Doctors,Medium
+"We need additional supplies in the pediatric unit, uh, could you send more?",Pharmacy,Medium
+"Uh, the sterilization process for the equipment is delayed, like, can you speed it up?",Emergency,Medium
+"We have a patient who needs Emergency surgery, like, can you get the team together?",Doctors,High
+"Just, uh, checking if the insurance claim for my procedure has been processed, can someone confirm?",Reception,Low
+"The elevator in the east wing is out of order, uh, can maintenance get to it?",Emergency,Low
+"We’re out of stock on antibiotics, like, uh, can you send more?",Pharmacy,High
+"Uh, I need someone to review the patient’s chart for discrepancies, like, ASAP.",Doctors,Medium
+"The ER is full, and we need more beds, uh, can you get more ready?",Emergency,High
+"Can you please confirm when my prescription will be ready for pickup, uh, soon?",Pharmacy,Low
+"I’m calling because the blood pressure machine in room 305 is malfunctioning, uh, can someone check it?",Emergency,Medium
+"Uh, we need more staff in the ICU, it’s really busy, like, can someone assist?",Emergency,High
+"Uh, I just wanted to check if the MRI appointment for the patient is still scheduled, you know?",Doctors,Low
+"The pharmacy is out of stock for antibiotics, uh, can you send more immediately?",Pharmacy,High
+"We need more staff for the night shift in the ER, it’s really busy tonight, like, uh, please confirm.",Emergency,High
+"Uh, I just realized that my billing information might be incorrect, like, could someone check that?",Reception,Low
+"We’ve got a situation with the patient in room 112, uh, they need urgent care, can someone check?",Doctors,High
+"Can someone review the test results from last week, um, they're needed urgently in the ER?",Doctors,High
+"The patient needs to be transferred to the ICU immediately, like, can someone prepare the bed?",Emergency,High
+"Uh, I just wanted to check if the pharmacy received the latest order for medication.",Pharmacy,Medium
+"Can someone please help with the medical record update for patient 542, uh, it’s important?",Doctors,Medium
+"We’re running low on insulin for diabetic patients, uh, can you send more?",Pharmacy,High
+"Uh, I think there’s a leak in the ceiling near the operating room, like, can someone look into it?",Emergency,Low
+"The equipment in the surgery ward is malfunctioning, um, can you send maintenance?",Emergency,High
+"We need more blood bags in the ER, like, urgently, can you get them?",Pharmacy,High
+"I just wanted to confirm the time for the surgery, uh, could someone get back to me?",Doctors,Low
+"The Doctors is requesting a follow-up on a patient’s test, uh, can you handle it?",Doctors,Medium
+"The patient in room 207 needs urgent attention, uh, can someone check them?",Doctors,High
+"We need a rapid response team in the Emergency room, uh, things are getting critical.",Emergency,High
+"I’m calling because I noticed an issue with my billing statement, uh, can someone confirm it?",Reception,Low
+"We need to replace the blood pressure cuffs in the ER, like, can you get new ones?",Emergency,Medium
+"Uh, the Doctors needs a quick update on the patient’s condition, like, can someone provide that?",Doctors,Medium
+"We need more syringes in the ICU, uh, can you get them delivered?",Pharmacy,High
+"The security team needs to review footage from the entrance, uh, can you arrange that?",Emergency,Medium
+"I need to check if my surgery was approved by insurance, um, can you get back to me?",Reception,Low
+"Uh, there's a delay in the lab results, can someone get an update?",Doctors,Medium
+"We need a cleaner in the operating room, uh, like, right now.",Emergency,Low
+"Uh, I think the ICU is overcrowded, can we get more beds?",Emergency,High
+"The pharmacy is missing some essential medication, um, can you send them?",Pharmacy,High
+"Can you confirm when my prescription will be ready, uh, I need it soon.",Pharmacy,Low
+"The patient in room 305 needs an urgent scan, um, can you prepare that?",Emergency,High
+"Uh, I just wanted to check if the pharmacy received my order for painkillers.",Pharmacy,Low
+"We need additional medical staff for the evening shift in the ER, uh, it's getting busy.",Emergency,High
+"The patient in room 221 needs a quick consultation, um, can you get the Doctors?",Doctors,Medium
+"Uh, I think we need a second opinion on this patient, like, can someone get a specialist?",Doctors,Medium
+"Can someone confirm when my follow-up appointment will be scheduled, um, thanks.",Doctors,Low
+"Hello, this is Daniel Williams. I had some questions about my recent tests. Could someone from Emergency please get back to me when possible? Thanks.",Emergency,Low
+"Hi, this is Jessica Brown. My patient ID is P9861. I'm experiencing severe symptoms and need immediate assistance from Pediatrics. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Emily Williams. My patient ID is P7825. I'm experiencing severe symptoms and need immediate assistance from Cardiology. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Michael Johnson. I had some questions about my recent tests. Could someone from Reception Medicine please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Sarah Smith. My patient ID is P1376. I'm experiencing severe symptoms and need immediate assistance from ENT. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Laura Davis. I’d like to book a routine appointment with Gynecology. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hello, this is Daniel Davis. I had some questions about my recent tests. Could someone from Cardiology please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is John Davis. My patient ID is P6870. I'm experiencing severe symptoms and need immediate assistance from Emergency. Please prioritize this. Thank you.",Emergency,High
+"Hi, this is Ryan Johnson. I’d like to book a routine appointment with Pediatrics. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hello, this is Chris Smith. I had some questions about my recent tests. Could someone from Oncology please get back to me when possible? Thanks.",Doctors,Low
+"Hello, this is Daniel Williams. I had some questions about my recent tests. Could someone from Emergency please get back to me when possible? Thanks.",Emergency,Low
+"Hello, this is Jane Williams. I had some questions about my recent tests. Could someone from Pediatrics please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Jessica Williams. I’d like to book a routine appointment with Reception Medicine. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Jessica Brown. My patient ID is P9861. I'm experiencing severe symptoms and need immediate assistance from Pediatrics. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Jessica Williams. I’d like to book a routine appointment with Emergency. Please let me know when you have availability. Thanks.",Emergency,Medium
+"Hi, this is Sarah Smith. My patient ID is P1376. I'm experiencing severe symptoms and need immediate assistance from ENT. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Ryan Jones. I’d like to book a routine appointment with Neurology. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is John Rodriguez. My patient ID is P4761. I'm experiencing severe symptoms and need immediate assistance from Reception Medicine. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Michael Miller. I had some questions about my recent tests. Could someone from Gynecology please get back to me when possible? Thanks.",Doctors,Low
+"Hello, this is Emily Martinez. I had some questions about my recent tests. Could someone from Oncology please get back to me when possible? Thanks.",Doctors,Low
+"Hello, this is Jessica Brown. I had some questions about my recent tests. Could someone from Dermatology please get back to me when possible? Thanks.",Doctors,Low
+"Hello, this is Sarah Williams. I had some questions about my recent tests. Could someone from ENT please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Michael Martinez. I’d like to book a routine appointment with Pediatrics. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Laura Williams. My patient ID is P3264. I'm experiencing severe symptoms and need immediate assistance from Pediatrics. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Chris Garcia. I’d like to book a routine appointment with Emergency. Please let me know when you have availability. Thanks.",Emergency,Medium
+"Hi, this is Laura Williams. My patient ID is P2933. I'm experiencing severe symptoms and need immediate assistance from Reception Medicine. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Laura Johnson. My patient ID is P7618. I'm experiencing severe symptoms and need immediate assistance from Oncology. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Chris Miller. My patient ID is P7903. I'm experiencing severe symptoms and need immediate assistance from Orthopedics. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Michael Miller. My patient ID is P3942. I'm experiencing severe symptoms and need immediate assistance from Dermatology. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Michael Jones. I had some questions about my recent tests. Could someone from Emergency please get back to me when possible? Thanks.",Emergency,Low
+"Hello, this is Daniel Garcia. I had some questions about my recent tests. Could someone from Dermatology please get back to me when possible? Thanks.",Doctors,Low
+"Hello, this is Jane Williams. I had some questions about my recent tests. Could someone from Gynecology please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is John Miller. My patient ID is P5384. I'm experiencing severe symptoms and need immediate assistance from Pediatrics. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Emily Garcia. I had some questions about my recent tests. Could someone from Neurology please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Sarah Miller. My patient ID is P2263. I'm experiencing severe symptoms and need immediate assistance from Emergency. Please prioritize this. Thank you.",Emergency,High
+"Hello, this is Ryan Martinez. I had some questions about my recent tests. Could someone from Pediatrics please get back to me when possible? Thanks.",Doctors,Low
+"Hello, this is John Martinez. I had some questions about my recent tests. Could someone from Dermatology please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is John Jones. My patient ID is P4470. I'm experiencing severe symptoms and need immediate assistance from Orthopedics. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Emily Williams. My patient ID is P7825. I'm experiencing severe symptoms and need immediate assistance from Cardiology. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Ryan Johnson. I’d like to book a routine appointment with Pediatrics. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Daniel Rodriguez. I’d like to book a routine appointment with Neurology. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Jessica Smith. I’d like to book a routine appointment with Dermatology. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Laura Garcia. My patient ID is P5327. I'm experiencing severe symptoms and need immediate assistance from Cardiology. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Emily Williams. My patient ID is P1143. I'm experiencing severe symptoms and need immediate assistance from Orthopedics. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Jane Davis. I had some questions about my recent tests. Could someone from ENT please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is John Jones. My patient ID is P8611. I'm experiencing severe symptoms and need immediate assistance from Reception Medicine. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Jane Johnson. I had some questions about my recent tests. Could someone from ENT please get back to me when possible? Thanks.",Doctors,Low
+"Hello, this is Daniel Rodriguez. I had some questions about my recent tests. Could someone from Cardiology please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Daniel Jones. I’d like to book a routine appointment with ENT. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Ryan Rodriguez. I’d like to book a routine appointment with Gynecology. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is John Davis. My patient ID is P6870. I'm experiencing severe symptoms and need immediate assistance from Emergency. Please prioritize this. Thank you.",Emergency,High
+"Hello, this is Jessica Rodriguez. I had some questions about my recent tests. Could someone from Neurology please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Jessica Jones. My patient ID is P7418. I'm experiencing severe symptoms and need immediate assistance from Orthopedics. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Jessica Jones. I had some questions about my recent tests. Could someone from Gynecology please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Sarah Rodriguez. My patient ID is P5703. I'm experiencing severe symptoms and need immediate assistance from Cardiology. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is John Smith. My patient ID is P2566. I'm experiencing severe symptoms and need immediate assistance from Reception Medicine. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Michael Brown. I had some questions about my recent tests. Could someone from Orthopedics please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Sarah Davis. My patient ID is P9054. I'm experiencing severe symptoms and need immediate assistance from Neurology. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is John Williams. I had some questions about my recent tests. Could someone from Reception Medicine please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Daniel Miller. My patient ID is P3742. I'm experiencing severe symptoms and need immediate assistance from Dermatology. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Emily Rodriguez. I had some questions about my recent tests. Could someone from Cardiology please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Laura Johnson. I’d like to book a routine appointment with Gynecology. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Sarah Brown. My patient ID is P5749. I'm experiencing severe symptoms and need immediate assistance from Pediatrics. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Chris Johnson. I’d like to book a routine appointment with Cardiology. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Emily White. My patient ID is P9912. I'm experiencing severe symptoms and need immediate assistance from Neurology. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Jessica Garcia. My patient ID is P7439. I'm experiencing severe symptoms and need immediate assistance from Emergency. Please prioritize this. Thank you.",Emergency,High
+"Hello, this is Daniel Brown. I had some questions about my recent tests. Could someone from Neurology please get back to me when possible? Thanks.",Doctors,Low
+"Hello, this is Michael White. I had some questions about my recent tests. Could someone from Reception Medicine please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Laura Garcia. My patient ID is P5229. I'm experiencing severe symptoms and need immediate assistance from Gynecology. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is John Davis. My patient ID is P8574. I'm experiencing severe symptoms and need immediate assistance from ENT. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Sarah Johnson. I had some questions about my recent tests. Could someone from Orthopedics please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Michael Williams. My patient ID is P5623. I'm experiencing severe symptoms and need immediate assistance from Cardiology. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Chris Smith. I’d like to book a routine appointment with Reception Medicine. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Emily Johnson. My patient ID is P7369. I'm experiencing severe symptoms and need immediate assistance from Neurology. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Jessica Martinez. I had some questions about my recent tests. Could someone from Pediatrics please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Sarah Miller. I’d like to book a routine appointment with Dermatology. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hello, this is Ryan Williams. I had some questions about my recent tests. Could someone from Pediatrics please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Daniel Davis. My patient ID is P3285. I'm experiencing severe symptoms and need immediate assistance from Cardiology. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Chris Garcia. I’d like to book a routine appointment with Reception Medicine. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Jessica White. My patient ID is P4785. I'm experiencing severe symptoms and need immediate assistance from Emergency. Please prioritize this. Thank you.",Emergency,High
+"Hello, this is Michael Brown. I had some questions about my recent tests. Could someone from Reception Medicine please get back to me when possible? Thanks.",Doctors,Low
+"Hi, this is Laura White. I’d like to book a routine appointment with Neurology. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hello, this is Sarah White. I had some questions about my recent tests. Could someone from Emergency please get back to me when possible? Thanks.",Emergency,Low
+"Hi, this is John Williams. I’d like to book a routine appointment with Pediatrics. Please let me know when you have availability. Thanks.",Doctors,Medium
+"Hi, this is Emily Smith. My patient ID is P3245. I'm experiencing severe symptoms and need immediate assistance from Reception Medicine. Please prioritize this. Thank you.",Doctors,High
+"Hi, this is Jessica Smith. My patient ID is P5476. I'm experiencing severe symptoms and need immediate assistance from Dermatology. Please prioritize this. Thank you.",Doctors,High
+"Hello, this is Daniel Martinez. I had some questions about my recent tests. Could someone from Orthopedics please get back to me when possible? Thanks.",Doctors,Low
+"Um, hi there... I've been having this really bad headache for like... uh... three days now and it's getting worse. Just wanted to see if I could get an appointment? My number is 555-0123",Reception,Medium
+Hello... *cough* *sniff* I think I might have the flu or something? Been feeling really awful and my fever is... um... pretty high. Should I come in? Call me back at 555-0234,Reception,Medium
+"Hi, just calling to... uh... schedule my annual check-up. No rush, whenever you have availability. You can reach me at 555-0345",Reception,Low
+"Hey, I've been having some really bad stomach pains since... um... last night. Not sure if I should be worried? Call me at 555-0456",Reception,Medium
+Good morning... er... I need to update my contact information and... um... get a new insurance card issued. My number is 555-0567,Reception,Low
+Hi there... I've been feeling really dizzy for the past few days and... uh... just need some advice on what to do. Call me at 555-0678,Reception,Medium
+Hello... *clearing throat* just need to... um... get a copy of my vaccination records for work. No rush. 555-0789,Reception,Low
+Hi... been having these weird spots appear on my skin and... uh... they're kind of itchy. Should I come in? 555-0890,Reception,Medium
+"Yes, hello... need to schedule a... um... follow-up appointment for my blood pressure check. Call when you can at 555-0901",Reception,Low
+Hi there... *sniff* having really bad seasonal allergies and need to... uh... see if I can get something stronger. 555-1012,Reception,High
+Hi... *sigh* Dr. Smith asked me to get some follow-up blood work done but I... uh... lost the paper with the tests listed. Could someone help me figure out what I need? 555-1123,Pharmacy,Low
+"Hello, the lab called earlier about some... um... abnormal results? I'm kind of freaking out here. Please call me back as soon as possible at 555-1234",Pharmacy,Medium
+"Hi there, just wondering if my... uh... routine blood work results are ready? No rush, just checking. 555-1345",Pharmacy,Low
+"Yes, hello... my Doctors needs these tests done... um... urgently for my surgery next week. When can I come in? My number is 555-1456",Pharmacy,High
+Hi... need to know if I need to... uh... fast for my blood test tomorrow morning? Please call back at 555-1567,Pharmacy,Low
+Hello... the lab results my Doctors ordered are marked urgent and... um... nobody has called me yet. Kind of worried. 555-1678,Pharmacy,Medium
+Hi there... wondering if you can tell me what time the lab opens? Need to... uh... come in early tomorrow. 555-1789,Pharmacy,Low
+Yes... *nervous laugh* just got a call about my cholesterol test being... um... really high? Need to know what to do next. 555-1890,Pharmacy,Medium
+Hello... need to reschedule my... uh... blood work appointment for tomorrow. Having car trouble. 555-1901,Pharmacy,High
+Hi... Dr. Jones said I need to repeat my... um... thyroid test ASAP. When can I come in? 555-2012,Pharmacy,High
+"Hi, Dr. Jones here. Need an urgent consult on a patient with... uh... concerning cardiac symptoms. Please call back ASAP at 555-2123",Doctors,Medium
+"Hello, this is Dr. Smith calling about a patient admission for... um... severe pneumonia. Need to coordinate with the ward. Call me at 555-2234",Doctors,Medium
+"Hi... Dr. Brown here. Just need to... uh... discuss a patient's test results with someone from oncology. When you can, call 555-2345",Doctors,High
+"Yes, this is Dr. Wilson. Need to... um... adjust a patient's medication plan. Please call back at 555-2456",Doctors,High
+"Hello, Dr. Garcia here... need to schedule an Emergency surgery for... uh... acute appendicitis. Call back immediately at 555-2567",Doctors,Medium
+"Hi, this is Dr. Lee... have a patient with concerning... um... cardiac arrhythmia readings. Need immediate consultation. 555-2678",Doctors,High
+"Yes, Dr. Anderson calling about a patient's... uh... abnormal MRI results. Need to discuss treatment options. 555-2789",Doctors,High
+Hello... Dr. Martinez here. Need to coordinate a... um... patient transfer from ICU. Please call back at 555-2890,Doctors,High
+"Hi, this is Dr. Thompson... need to discuss a patient's... uh... deteriorating condition with the team. 555-2901",Doctors,High
+Dr. White calling... need to arrange urgent... um... psychiatric evaluation for a patient. Call back ASAP at 555-3012,Doctors,Medium
+Hello... *breathing heavily* I'm running out of my heart medication and... uh... need a refill right away. I only have one pill left. Please help! 555-3123,Pharmacy,High
+"Hi, just checking if my prescription is... um... ready for pickup? It's for my blood pressure meds. Call me at 555-3234",Pharmacy,Low
+"Yes, calling about a... uh... possible reaction to my new medication. Getting a really bad rash. Should I stop taking it? 555-3345",Pharmacy,Low
+"Hello, need to know if you can... um... transfer my prescriptions from another pharmacy? No rush. 555-3456",Pharmacy,High
+Hi... my insurance changed and I need to... uh... update it for my prescriptions. Call me at 555-3567,Pharmacy,Medium
+"Yes, hello... I think there might be a mistake with my... um... diabetes medication dosage. Need to check ASAP. 555-3678",Pharmacy,Low
+Hi there... can you tell me if my... uh... antibiotic prescription is ready yet? Getting worse. 555-3789,Pharmacy,Medium
+Hello... need to know if you can... um... deliver my medications this time? I can't drive right now. 555-3890,Pharmacy,Medium
+Hi... calling about getting a refill on my... uh... asthma inhaler. Running really low. 555-3901,Pharmacy,High
+Yes... wondering if my pain medication prescription has been... um... approved by insurance yet? 555-4012,Pharmacy,High
+Hi... *crying* my child just had a seizure and we're on our way to the hospital. She's never had one before. We'll be there in 10 minutes,Emergency,High
+Hello... I think I'm having a heart attack. Really bad chest pain and... uh... left arm is numb. Coming in now,Emergency,High
+Hi... *gasping* having trouble breathing... feels like... um... can't get enough air. Should I come to Emergency?,Emergency,High
+"Yes, hi... I cut my hand pretty bad while cooking and... uh... the bleeding won't stop. Do I need stitches? Please call back ASAP. 555-4123",Emergency,High
+Hi there... my elderly father fell and hit his head... he's... um... acting really confused. Should we come in? 555-4234,Emergency,High
+Hello... *sobbing* my wife is having severe chest pains and... uh... can't breathe properly. We're on our way. 555-4345,Emergency,High
+Yes... think I might have appendicitis? The pain is... um... unbearable now. Coming to Emergency. 555-4456,Emergency,High
+Hi... my toddler swallowed something and... uh... is having trouble breathing. Coming in now! 555-4567,Emergency,High
+Hello... had a car accident and... um... feeling really dizzy. Should I come to Emergency? 555-4678,Emergency,Low
+Hi there... having severe allergic reaction to... uh... peanuts. Face is swelling up. Coming in! 555-4789,Emergency,High
+"Hello... need to schedule a routine... um... blood sugar test. No rush, just call when you can. 555-9890",Pharmacy,Medium
+Hi there... Dr. Clark here. Need to discuss a patient's... uh... post-op complications. Call back at 555-9901,Doctors,High
+Yes... wondering if my prescription for... um... blood pressure medication is ready? 555-9912,Pharmacy,Medium
+Hello... *panicked* having severe abdominal pain and... uh... bleeding. Coming to Emergency now! 555-9923,Emergency,Medium
+Hi... need to schedule a follow-up about my... um... ongoing migraine issues. Call when possible at 555-9934,Reception,High
+Hi... um... my insurance rejected my migraine medication and it's... uh... $300 now? Need to figure something out,Pharmacy,High
+Hello... the generic version of my anxiety medication isn't... uh... working as well as the brand name. Having panic attacks again,Pharmacy,Low
+Yes... *sigh* been waiting three days for my pain medication and... um... nobody's called me back. Really struggling here,Pharmacy,Medium
+Hi there... need to schedule my... uh... COVID booster and flu shot. Any availability next week?,Reception,Medium
+Hello... had a really bad reaction to the shingles vaccine yesterday... um... arm is super swollen and red,Reception,High
+Hi... *sniff* think there's a mistake with my thyroid prescription... uh... pills look different this time,Pharmacy,Low
+Um... the pharmacist said my blood thinner prescription needs... uh... Doctors approval? Running out tomorrow,Pharmacy,Low
+Hello... need to file a complaint about Dr. Smith's office. They've cancelled my appointment... um... three times now,Reception,High
+Hi... trying to get my second pneumonia vaccine but... uh... keep getting conflicting information about timing,Reception,Medium
+Yes... pharmacy gave me the wrong dosage of my... um... blood pressure medication. Need this fixed ASAP,Pharmacy,High
+Hi there... called about my prenatal vitamins prescription... uh... three times already. Need these urgently,Pharmacy,Medium
+Hello... *frustrated sigh* been trying to get my chemotherapy medications... um... approved for two weeks now,Pharmacy,High
+Hi... need to know if my arthritis medication can be... uh... changed to something less expensive,Pharmacy,High
+Hello... my diabetes supplies aren't covered anymore and... um... need help finding alternatives,Pharmacy,Medium
+Yes... having severe side effects from the new... uh... antidepressant. Need to speak with someone,Pharmacy,Low
+Hi there... waiting for authorization for my... um... specialty medication. It's been ten days,Pharmacy,Medium
+Hello... need my second MMR vaccine scheduled... uh... for school registration next month,Reception,High
+Um... got a flu shot yesterday and... *sigh* having really bad arm pain and fever,Reception,High
+Hi... pharmacy keeps mixing up my medications and... uh... it's happened three times now,Pharmacy,Low
+Yes... need to report a bad interaction between my... um... new medications. Getting really dizzy,Pharmacy,Medium
+Hello... trying to schedule my tetanus booster but... uh... can't get through to anyone,Reception,High
+Hi there... *cough* the cough syrup prescribed isn't... um... working at all. Need something stronger,Pharmacy,Low
+Yes... need to know why my inhaler refill was... uh... denied by insurance,Pharmacy,Low
+Hello... want to complain about a rude staff member in the... um... pharmacy department,Pharmacy,Medium
+Hi... missed my shingles vaccine appointment and... uh... need to reschedule,Reception,Medium
+Hello... the pharmacy substituted my medication without... um... telling me. Is this allowed?,Pharmacy,Low
+Yes...  my child's antibiotic tastes different and... uh... they won't take it,Pharmacy,High
+Hi there... need to get my travel vaccines but... um... unsure which ones I need,Reception,Medium
+Hello... third time my heart medication refill has been... uh... delayed. This is serious,Pharmacy,High
+Um... having trouble affording my prescriptions and... uh... need to know about assistance programs,Pharmacy,Low
+Hi... wanted to report that the pharmacy gave me... um... someone else's prescription yesterday,Pharmacy,High
+Yes... need to schedule vaccines for my newborn but... uh... the online system isn't working,Reception,High
+Hello... *worried* my blood pressure medication looks different... um... need to verify it's correct,Pharmacy,Low
+Hi there... having an allergic reaction to my new... uh... antibiotic. Need advice,Pharmacy,High
+Yes... need to complain about wait times at the... um... vaccination clinic last week,Reception,Low
+Hello... my pain medication dosage seems wrong and... uh... no one's helping me verify,Pharmacy,High
+Hi... trying to get my COVID vaccine record but... um... can't find it in the system,Reception,Low
+Um... pharmacy keeps saying they're out of my... uh... seizure medication. This is serious,Pharmacy,High
+Yes... need to know if you offer the meningitis vaccine for... um... college requirements,Reception,Low
+Hello... *sigh* my insurance changed and now my... uh... medications are all denied,Pharmacy,Medium
+Hi there... got double-charged for my prescriptions and... um... need this fixed,Pharmacy,Low
+Yes... need to report side effects from my... uh... new cholesterol medication,Pharmacy,Low
+Hello... want to schedule all my kid's vaccines but... um... need a list of what's due,Reception,Low
+Hi... the pharmacy's phone system keeps hanging up after... uh... hour-long holds,Pharmacy,Medium
+Um... need to know if you have the new COVID variant vaccine... uh... available yet,Reception,High
+Yes... *frustrated* my prescription was sent to wrong pharmacy... um... third time this month,Pharmacy,High
+Hello... having trouble getting my hormone replacement... uh... therapy refilled,Pharmacy,Low
+Hi there... need to report that my medication instructions are... um... different from what Doctors said,Pharmacy,High
+Yes... want to schedule HPV vaccine series but... uh... need insurance coverage info first,Reception,Medium
+Hello... my medication has been out of stock for... um... two weeks now. What can I do?,Pharmacy,Low
+Hi there... pharmacy keeps saying my prescription expired but... um... Doctors just renewed it,Pharmacy,High
+Hello... need to know if I can get both flu and COVID shots... uh... at the same time,Reception,Low
+Yes... *anxious* my medication looks completely different and... um... I'm scared to take it,Pharmacy,Medium
+Um... trying to schedule my child's booster shots but... uh... keep getting disconnected,Reception,Medium
+Hello... need to dispute a charge for medication that... um... I never received,Pharmacy,Low
+Hi... um... I've been having these weird dizzy spells when I stand up and... uh... almost fainted twice today. Should I be concerned?,Reception,Medium
+Hello... been having trouble sleeping for like... uh... three weeks now. Need to see if I can get some help,Reception,High
+Yes... *cough* *wheeze* my asthma's getting worse with this weather change and... um... need to see someone,Reception,Low
+Hi there... noticed some unusual lumps in my neck and... uh... getting kind of worried. Can I get checked?,Reception,High
+Hello... trying to get my medical records for... um... a specialist appointment next week,Pharmacy,High
+Um... got my blood test results online and there's this... uh... red flag thing? Really worried,Pharmacy,Medium
+Hi... need to check if my... um... diabetes test results are ready? Doctors said it was urgent,Pharmacy,High
+Hello... can I get a copy of my... uh... recent EKG results? My cardiologist needs them,Pharmacy,High
+Dr. Chang here... need immediate consultation on a patient's... um... concerning brain scan results. Urgent,Doctors,High
+"Yes, Dr. Peterson calling about a patient showing signs of... uh... sepsis. Need immediate input",Doctors,High
+"Hi, this is Dr. Murphy... have a pregnant patient with... um... preeclampsia symptoms. Need to discuss care plan",Doctors,Medium
+Hello... my new blood pressure medication is making me feel... uh... really weird and dizzy. Should I stop taking it?,Pharmacy,High
+Hi there... need to check if my pain medication was... um... approved by insurance yet? Running really low,Pharmacy,High
+Yes... *sniff* think I'm having an allergic reaction to my new... uh... antibiotics. Getting hives,Pharmacy,High
+Hi... *gasping* severe chest pain and... um... left arm numbness. Coming to Emergency now!,Emergency,High
+Hello... my son just had a... uh... really bad allergic reaction to peanuts. On our way in!,Emergency,High
+Hi there... started coughing up blood and... um... can't catch my breath. Should I come in?,Emergency,Low
+Um... having severe lower back pain and... uh... can't feel my legs properly. Getting scared,Reception,Medium
+Hello... need to get my annual mammogram... uh... scheduled. No rush,Reception,Medium
+Hi... been having these cluster headaches and... um... regular pain meds aren't helping anymore,Reception,High
+Yes... need to get my test results for my... uh... thyroid function. Doctors said to follow up,Pharmacy,High
+Hi there... my glucose monitoring results are showing... um... really high numbers. Need advice,Pharmacy,High
+Hello... Dr. Ross here. Patient showing symptoms of... uh... possible meningitis. Need immediate consult,Doctors,High
+Hi... my antidepressant prescription needs... um... urgent refill. Running out tomorrow,Pharmacy,High
+Hello... *crying* my husband collapsed and isn't... uh... responding properly. Calling ambulance now!,Emergency,High
+Hi... experiencing severe abdominal pain after... um... recent surgery. Need to know if I should come in,Emergency,High
+Hello... need to report some concerning side effects from... uh... my new heart medication,Pharmacy,High
+Yes... got my lab results and my potassium is... um... really low. Doctors said to call immediately,Pharmacy,High
+Hi there... having trouble breathing and... uh... chest tightness after starting new medication,Emergency,High
+Hello... Dr. Wilson here about a patient with... um... acute kidney failure. Need immediate consultation,Doctors,High
+Hi... experiencing numbness in my face and... um... slurred speech. Should I come to Emergency?,Emergency,High
+Hello... lab results showing possible... uh... liver problems. Need to speak with someone urgently,Pharmacy,High
+Yes... Dr. Adams here about a critical... um... patient transfer request. Need immediate response,Doctors,High
+Hi there... having severe allergic reaction to... uh... new antibiotics. Face is swelling,Emergency,High
+Hello... need urgent consultation about... um... abnormal heartbeating.. help me,Doctors,Medium
+Hi... um... there's a leak in the ceiling of the waiting room on floor 3 and... uh... water is dripping on patients,Reception,Medium
+Hello... your parking garage payment machine is... um... not working and my car is stuck,Reception,High
+Yes... need to report that the... uh... wheelchair assistance never showed up for my mother's appointment,Reception,Low
+Hi there... the cafeteria served me... um... spoiled food yesterday. Need to report this,Reception,Low
+Hello... your hospital website isn't letting me... uh... pay my bill online. Been trying for days,Reception,Medium
+Hi... the vending machine on floor 4 took my... um... money but didn't give me anything,Reception,Low
+Um... the bathroom near radiology is... uh... completely out of order and creating problems,Reception,Medium
+Hi there... your TV in room 302 has been... um... blasting static all night. Nobody's fixing it,Reception,High
+Hello... need to complain about a... uh... security guard who was extremely rude to my elderly father,Reception,Low
+Yes... the translation services you provided were... um... completely incorrect. This is serious,Reception,Medium
+Hi... your billing department keeps... uh... sending bills to my old address despite updates,Reception,High
+Hello... the visitor parking is... um... completely full and I missed my appointment,Reception,Low
+Hi there... the heating in the waiting room is... uh... not working and elderly patients are freezing,Reception,Medium
+Yes... your hospital map is... um... really confusing and made me late to my appointment,Reception,Medium
+Hello... there's no cell phone reception in... uh... most of the building. It's a safety issue,Reception,Low
+Hi... the chairs in chemotherapy unit are... um... broken and uncomfortable for long sessions,Reception,Low
+Um... your WiFi password given at reception... uh... doesn't work anywhere in the hospital,Reception,Low
+Hi there... the snack bar prices are... um... way higher than listed on the menu,Reception,High
+Hello... your patient portal keeps... uh... logging me out while I'm filling forms,Reception,Medium
+Yes... the elevator on the east wing has been... um... out of order for two weeks now,Reception,High
+Hi... trying to get an itemized bill but... uh... nobody returns my calls,Reception,High
+Hello... the lighting in the parking garage is... uh... out and it feels unsafe at night,Reception,Medium
+Hi there... your hand sanitizer stations are all... um... empty on the second floor,Reception,Low
+Yes... the air conditioning in the lab waiting area is... uh... making people uncomfortable,Reception,High
+Um... need to report that the coffee shop is... uh... charging for water which should be free,Reception,Medium
+Hello... the automatic doors at the main entrance are... uh... not working properly,Reception,High
+Hi... your phone system keeps... um... disconnecting me after 20 minutes on hold,Reception,Medium
+Yes... the signs to the Emergency room are... uh... covered by trees. Could cause problems,Reception,Medium
+Hi there... the patient discharge area has no... um... protection from rain or weather,Reception,High
+Hello... your online appointment system double-booked my... uh... slot three times now,Reception,Medium
+Hi... the handicap parking spots are being used by... um... staff vehicles regularly,Reception,Low
+Yes... the cleaning staff is... uh... extremely loud during overnight hours,Reception,Medium
+Hello... your billing statements are... um... impossible to understand. Need simpler format,Reception,High
+Hi there... the patient transport teams are... uh... consistently late to appointments,Reception,High
+Um... the café is serving... uh... expired food items. Found mold on my sandwich,Reception,Low
+Yes... your insurance verification system is... um... showing wrong coverage information,Reception,Medium
+Hello... the volunteer at the information desk gave... uh... completely wrong directions,Reception,Low
+Hi... the parking validation machine ate my... um... ticket and now I can't leave,Reception,High
+Yes... your gift shop is... uh... charging double the retail prices for basic items,Reception,Low
+Hi there... the public restrooms are... um... constantly out of toilet paper and soap,Reception,Medium
+Hello... your patient feedback system is... uh... not recording any of my submitted forms,Reception,Low
+Hi... the cafeteria's credit card machine has been... um... down for three days,Reception,Low
+Yes... your appointment reminder system sent me... uh... fifteen texts in one hour,Reception,High
+Hi there... the hospital's mobile app keeps... um... crashing when trying to view test results,Reception,Medium
+Hello... the parking garage security cameras are... uh... not working according to guard,Reception,High
+"Hi, this is Margaret Wilson... um... your discharge paperwork has my wrong insurance details and... uh... it's causing billing issues",Reception,Medium
+Hello... there's been no hot water in the... uh... third floor visitor bathrooms all week,Reception,High
+"Yes, John Baker here... trying to get my mother's records and... um... nobody seems to know where they are",Reception,Medium
+Hi... the sliding doors at the cancer center entrance are... uh... stopping halfway and trapping people,Reception,Medium
+This is Dr. Chen's nurse Sarah... your fax system isn't... um... receiving our referral forms,Reception,High
+"Hello, Emma Thompson calling about... uh... incorrect charges on my hospital bill from last month",Reception,High
+Hi there... your handicap entrance ramp is... um... way too steep for wheelchairs,Reception,Low
+"Yes, Robert Martinez here... the pharmacy keeps... uh... mixing up my dad's prescriptions with someone else's",Pharmacy,High
+Um... calling because the hospital directory... uh... lists wrong clinic hours,Reception,Medium
+"Hello, Susan Chang... your online bill pay system charged my card... um... three times for one payment",Reception,High
+Hi there... the MRI department staff are... uh... extremely rude to elderly patients,Reception,High
+"Yes, this is nurse Jessica from Dr. Park's office... your referral line has been... um... down all morning",Reception,Low
+Hello... the parking garage elevator has been... uh... stuck on the 4th floor all day,Reception,High
+Michael Brown here... your appointment reminder system sent notices to... um... my old phone number despite updates,Reception,High
+Hi... there's a strong sewage smell near the... uh... cafeteria entrance,Reception,Medium
+This is Mrs. Anderson... the hospital beds in room 405 have... um... broken call buttons,Reception,High
+Hello... your website's appointment booking system... uh... keeps crashing during payment,Reception,Low
+"Yes, David Wilson calling... the pharmacy gave me... um... someone else's medication paperwork",Pharmacy,High
+Hi there... the vending machine in the ER waiting room... uh... took my money three times,Reception,High
+Tom from maintenance... the backup generators didn't... um... kick in during the power flicker,Reception,Medium
+"Hello, Lisa Chen here... the interpreter service you provided was... um... speaking the wrong dialect",Reception,High
+Hi... your parking validation system has charged me... uh... double the normal rate,Reception,High
+"Yes, this is Patricia from accounting... your billing codes are... um... completely wrong for our insurance",Reception,Medium
+Hello... the cafeteria is serving... uh... expired dairy products,Reception,Low
+James Wilson here... your patient transport team left my mother... um... waiting for two hours,Reception,High
+Hi... um... need to know if I can visit my mother outside regular hours since I... uh... work night shifts,Reception,High
+Hello... wheelchair access to the new wing is... um... blocked by construction. Had to go around entire building,Reception,Low
+Yes... lost my pain medication prescription somewhere between... uh... the Doctors's office and pharmacy,Pharmacy,Medium
+Hi there... need clarification on my... um... payment plan options. The bill is really confusing,Reception,Medium
+Hello... trying to reschedule my follow-up but the... uh... online system won't let me,Reception,High
+Hi... need access to my daughter's records but... um... having trouble with the authorization forms,Reception,Medium
+Um... my insurance says I need to get... uh... prior authorization for my refill,Pharmacy,Medium
+Yes... visiting hours for ICU are... um... not clearly posted and security gave different times,Reception,Medium
+Hello... need to know if I can get a... uh... longer prescription supply before my vacation,Pharmacy,Low
+Hi there... trying to set up a payment plan but... uh... nobody returns my calls,Reception,High
+Um... need clarification about weekend visiting hours for... uh... maternity ward,Reception,High
+Yes... the ramp to the specialist wing is too... um... steep for my motorized wheelchair,Reception,Medium
+Hello... lost my prescription during the move and... uh... need it replaced urgently,Pharmacy,Medium
+Hi... need to reschedule my procedure but the... um... cancellation fee seems incorrect,Reception,Medium
+Yes... trying to get access to my mom's medical records with... uh... power of attorney,Reception,Low
+Hello... pharmacy keeps saying refill is too early but... um... I'm going on extended travel,Pharmacy,Medium
+Hi there... need clarification on my... uh... copay for physical therapy sessions,Reception,High
+Um... follow-up appointment was scheduled during... uh... holiday closure. Need to change it,Reception,High
+Yes... need special access hours to visit my... um... husband who's in critical care,Reception,Low
+Hello... prescription shows different dosage than what... uh... Doctors discussed with me,Pharmacy,Medium
+Hi... need to change all my appointments to... um... evening hours due to new job,Reception,Low
+Yes... automatic refill program isn't... uh... working properly for my monthly medications,Pharmacy,Medium
+Hello... need clarification about visitor policy for... uh... children under 12,Reception,High
+Hi there... wheelchair service wasn't available at my... um... last three appointments,Reception,High
+Um... trying to get Emergency prescription refill but... uh... regular pharmacy is closed,Pharmacy,Medium
+Yes... payment was applied to wrong account and now... um... getting collection notices,Reception,Medium
+Hello... need after-hours building access for my... uh... late radiation treatments,Reception,Medium
+Hi... prescription discount card was... um... rejected after working last month,Pharmacy,Low
+Yes... follow-up appointments keep getting... uh... scheduled at different locations,Reception,Low
+Hello... need clarification on family visiting hours during... um... COVID protocols,Reception,High
+Hi there... requesting access to medical records from... uh... my past surgeries,Reception,Medium
+Um... lost prescription for controlled substance and... uh... pharmacy says they can't replace it,Pharmacy,High
+Yes... need to discuss payment plan options for my... um... upcoming procedure,Reception,Medium
+Hello... specialist referral expired and need... uh... urgent renewal,Reception,Medium
+Hi... need to reschedule several appointments due to... um... family Emergency,Reception,Low
+Hello... visiting pass system isn't... uh... recognizing my approved extended hours,Reception,Medium
+Hi there... need clarification about medication... um... pickup times during holidays,Pharmacy,High
+Yes... trying to coordinate multiple follow-ups but... uh... getting conflicting times,Reception,Medium
+Um... insurance requirement changed and need... uh... new prior authorization,Pharmacy,Medium
+Hello... payment portal showing different amount than... um... what I was quoted,Reception,High
+Hi... um... need to know if your COVID guidelines still require... uh... testing before surgery,Reception,Low
+Hello... lost my wedding ring during... uh... my MRI appointment yesterday. Really need help finding it,Reception,Low
+Yes... want to make a donation in memory of... um... my mother who was treated here last month,Reception,High
+Hi there... need to cancel my... uh... therapy session tomorrow but can't reach my counselor,Reception,Low
+Hello... confused about the dosage instructions for... um... my new medication post-surgery,Pharmacy,Medium
+Hi... trying to pay my bill online but the... uh... payment system keeps showing an error,Reception,Medium
+Um... need to know what prep is required for my... uh... colonoscopy next week,Reception,Low
+"Hello... can't access my COVID vaccination records for... uh... travel requirements, please get back in this number",Reception,Medium
+Hi... interested in joining your... um... diabetes management support group,Reception,Low
+Yes... need a cost estimate for my upcoming... uh... gallbladder surgery for insurance,Reception,Low
+Hi there... left my phone in the... um... CT scan waiting room yesterday,Reception,Low
+Hello... want to donate some medical supplies but... uh... not sure what you accept,Reception,High
+Yes... need to reschedule my grief counseling... um... session for next week,Reception,Medium
+Hi... the online portal shows different dosage instructions than... uh... what my Doctors said,Pharmacy,Low
+Um... need clarification on your current... uh... COVID visitor policy,Reception,Medium
+Hello... wondering if your community health fair is... uh... happening this year,Reception,Low
+Hi there... lost my vaccination card and need... um... a replacement for work,Reception,Medium
+Yes... trying to get a price estimate for... uh... physical therapy sessions,Reception,Low
+Hello... need to prepare for blood work but... uh... forgot the fasting instructions,Pharmacy,Medium
+Hi... want to cancel my counseling appointment but... uh... keep getting voicemail,Reception,Low
+Um... need to know if you still require... uh... masks in the outpatient areas,Reception,Low
+Hello... left my glasses somewhere in... uh... the cardiology department yesterday,Reception,Medium
+Hi there... interested in donating to the... um... children's wing renovation project,Reception,Low
+Yes... need help understanding my... uh... payment plan options for surgery,Reception,Medium
+Hello... want to join your... um... new mothers support group,Reception,High
+Hi... confused about the prep instructions for my... uh... stress test tomorrow,Reception,Medium
+Um... lost my prescription in the... uh... hospital parking lot yesterday,Pharmacy,Low
+Hello... need to cancel my post-surgery... um... follow-up appointment,Reception,Low
+Hi there... trying to find my son's... uh... retainer left in the cafeteria,Reception,Medium
+Yes... want information about your... um... mental health awareness programs,Reception,Medium
+"Hi... need help accessing my COVID test results on the... uh... patient portal, site shows some glitches",Reception,Medium
+Hello... lost my appointment reminder card with... um... all my pre-surgery instructions,Reception,Low
+Yes... trying to find out if you offer... uh... payment assistance programs,Reception,Medium
+Hi there... need to know vaccination requirements for... um... volunteering in pediatrics,Reception,Low
+Hello... looking for my daughter's stuffed animal left in... uh... Emergency last night,Reception,Medium
+Hi... um... trying to set up the virtual consultation app but... uh... keeps saying my camera isn't working,Reception,High
+Hello... missed my online therapy session because... um... the link wasn't working. Need to reschedule,Reception,Low
+Yes... need clarification about my... uh... post-stroke exercise regime. Some movements hurt,Reception,High
+Hi there... having trouble joining the... um... online diabetes support group meeting. Need help,Reception,High
+Hello... need a medical certificate for my... uh... extended sick leave. It's urgent for work,Reception,Low
+Hi... confused about the fasting instructions for... um... my surgery next week. Need clarification,Reception,Low
+Um... wanting to know if the... uh... breast cancer support group still meets on Thursdays,Reception,Medium
+Hi there... need to register for the... uh... upcoming health camp for senior citizens,Reception,Low
+Hello... my virtual Doctors said to do these exercises but... um... I'm not sure I'm doing them right,Reception,Medium
+Yes... need information about the... uh... weight management support group schedule,Reception,Medium
+Hi... the pre-surgery instruction video link is... um... not working on your website,Reception,Medium
+Hello... having connectivity issues during my... uh... virtual physical therapy sessions,Reception,Low
+Hi there... need a medical certificate for my... um... insurance claim from last month's visit,Reception,Medium
+Yes... wondering if there's a... uh... support group for new mothers in the hospital,Reception,Medium
+Hello... need help with the rehabilitation exercises for my... um... frozen shoulder. Videos aren't clear,Reception,Low
+Hi... the virtual consultation waiting room has had me... uh... waiting for over an hour,Reception,High
+Um... need to know what to bring to the... uh... health screening camp tomorrow,Reception,Low
+Hi there... my post-surgery exercise plan is... um... too intense. Need to modify it,Reception,High
+Hello... the grief counseling support group link... uh... isn't working properly,Reception,Medium
+Yes... need clarification about my... um... pre-surgery medication instructions,Reception,Medium
+Hi... the online physical therapy session keeps... uh... freezing during demonstrations,Reception,High
+Hello... need to know if I can get a... um... medical certificate retroactively for last week,Reception,Low
+Hi there... having trouble following the... uh... cardiac rehabilitation home program,Reception,Low
+Yes... need to register for the... um... diabetes management virtual workshop,Reception,High
+Um... the mindfulness support group meeting password isn't... uh... working for me,Reception,Medium
+Hello... my virtual consultation got disconnected and... uh... I still need my prescription,Reception,Low
+Hi... need help understanding these... um... pre-surgery skin preparation instructions,Reception,Medium
+Yes... wondering if the arthritis support group has... uh... both online and in-person options,Reception,High
+Hi there... having trouble with the exercises in my... um... back pain rehabilitation program,Reception,High
+Hello... need a medical certificate stating I can... uh... return to work after COVID,Reception,High
+Hi... the dietary instructions for pre-surgery are... uh... conflicting with my diabetes diet,Reception,Low
+Um... missed my virtual consultation because of... uh... technical issues. Need urgent reschedule,Reception,High
+Yes... need help setting up my phone for the... uh... teletherapy session tomorrow,Reception,Low
+Hello... the cardiac rehabilitation exercises seem too... um... advanced for my condition,Reception,High
+Hi there... need to know if the mental health support group is... uh... still meeting virtually,Reception,Low
+Yes... having trouble with the breathing exercises from my... um... pulmonary rehabilitation,Reception,Low
+Hello... need clarification about joining the... uh... cancer survivors support network,Reception,Medium
+Hi... the pre-surgery anxiety management video isn't... uh... playing on my device,Reception,Medium
+Um... need help with the virtual check-in process for my... uh... follow-up consultation,Reception,Low
+Yes... the physical therapy home exercise videos are... uh... not downloading properly,Reception,Low
+Hi... need a medical certificate for my... um... gym program clearance after surgery,Reception,Medium
+Hello... the stress management support group schedule is... uh... different from what was sent,Reception,High
+Yes... having trouble understanding the... um... pre-surgery bathing protocol,Reception,Low
+Hi there... the virtual rehabilitation assessment link isn't... uh... working properly,Reception,High
+Um... need information about the upcoming... uh... community health screening camp,Reception,Low

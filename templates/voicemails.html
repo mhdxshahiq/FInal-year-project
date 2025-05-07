@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voicemail Prioritization</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        .voicemail-card {
+            background-color: #ffffff;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .urgency-badge {
+            font-size: 14px;
+            padding: 5px 10px;
+            border-radius: 12px;
+        }
+        .high {
+            background-color: #dc3545;
+            color: white;
+        }
+        .medium {
+            background-color: #ffc107;
+            color: white;
+        }
+        .low {
+            background-color: #28a745;
+            color: white;
+        }
+        audio {
+            width: 100%;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center mb-4">Prioritized Voicemails</h1>
+
+        {% for voicemail in voicemails %}
+        <div class="voicemail-card">
+            <h5>Voicemail {{ loop.index }}</h5>
+
+            <!-- Display Caller Info -->
+            <p><strong>Caller Number:</strong> {{ voicemail['caller_number'] }}</p>
+            <p><strong>Caller Location:</strong> {{ voicemail['caller_location'] }}</p>
+            <p><strong>Date and Time:</strong> {{ voicemail['date_time'] }}</p>
+            <p><strong>Duration:</strong> {{ voicemail['duration'] }} seconds</p>
+
+            <!-- Urgency Badge -->
+            {% if voicemail['text_urgency'] >= 0.7 or voicemail['audio_urgency'] >= 0.7 %}
+                <span class="urgency-badge high">High Priority</span>
+            {% elif voicemail['text_urgency'] >= 0.4 or voicemail['audio_urgency'] >= 0.4 %}
+                <span class="urgency-badge medium">Medium Priority</span>
+            {% else %}
+                <span class="urgency-badge low">Low Priority</span>
+            {% endif %}
+
+            <!-- Audio Player -->
+            <audio controls>
+                <source src="{{ url_for('static', filename='/'+voicemail['audio_path']) }}" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>            
+        </div>
+        {% endfor %}
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

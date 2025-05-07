@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Department Voicemail System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(45deg, #6b48ff, #00ddeb);
+            background-size: 400% 400%;
+            animation: gradientBG 15s ease infinite;
+            overflow: auto;
+        }
+
+        @keyframes gradientBG {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            padding: 40px;
+            position: relative;
+        }
+
+        .department-select {
+            text-align: center;
+            margin-bottom: 40px;
+            color: white;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .department-select h1 {
+            font-size: 2.5em;
+            margin-bottom: 30px;
+            animation: fadeIn 1s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .department-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .dept-button {
+            padding: 15px 30px;
+            font-size: 18px;
+            border: none;
+            border-radius: 50px;
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(5px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .dept-button:hover {
+            transform: translateY(-3px);
+            background: rgba(255, 255, 255, 0.2);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .login-container {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            max-width: 450px;
+            margin: 0 auto;
+            display: none;
+            backdrop-filter: blur(10px);
+            animation: slideUp 0.5s ease-out;
+        }
+
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .login-container.active {
+            display: block;
+        }
+
+        .login-header h2 {
+            color: #1a1a1a;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .login-header p {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .form-group {
+            margin-bottom: 25px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: 500;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            background: #f5f5f5;
+            transition: all 0.3s ease;
+        }
+
+        .form-group input:focus {
+            outline: none;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(107, 72, 255, 0.2);
+        }
+
+        .submit-btn {
+            width: 100%;
+            padding: 15_forwardedpx;
+            background: linear-gradient(45deg, #6b48ff, #00ddeb);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            height: 30px;
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(107, 72, 255, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="department-select">
+            <h1>Department Voicemail System</h1>
+            <div class="department-buttons">
+                <button class="dept-button" onclick="showLogin('doctors')">Doctors</button>
+                <button class="dept-button" onclick="showLogin('pharmacy')">Pharmacy</button>
+                <button class="dept-button" onclick="showLogin('reception')">Reception</button>
+                <button class="dept-button" onclick="showLogin('emergency')">Emergency</button>
+            </div>
+        </div>
+
+        <div id="doctorsLogin" class="login-container">
+            <div class="login-header">
+                <h2>Doctors Department</h2>
+                <p>Please login to access voicemails</p>
+            </div>
+            <form onsubmit="return false;">
+                <div class="form-group">
+                    <label for="doctors-username">Username</label>
+                    <input type="text" id="doctors-username" required>
+                </div>
+                <div class="form-group">
+                    <label for="doctors-password">Password</label>
+                    <input type="password" id="doctors-password" required>
+                </div>
+                <button class="submit-btn" onclick="handleLogin('doctors')">Login</button>
+            </form>
+        </div>
+
+        <div id="pharmacyLogin" class="login-container">
+            <div class="login-header">
+                <h2>Pharmacy Department</h2>
+                <p>Please login to access voicemails</p>
+            </div>
+            <form onsubmit="return false;">
+                <div class="form-group">
+                    <label for="pharmacy-username">Username</label>
+                    <input type="text" id="pharmacy-username" required>
+                </div>
+                <div class="form-group">
+                    <label for="pharmacy-password">Password</label>
+                    <input type="password" id="pharmacy-password" required>
+                </div>
+                <button class="submit-btn" onclick="handleLogin('pharmacy')">Login</button>
+            </form>
+        </div>
+
+        <div id="receptionLogin" class="login-container">
+            <div class="login-header">
+                <h2>Reception Department</h2>
+                <p>Please login to access voicemails</p>
+            </div>
+            <form onsubmit="return false;">
+                <div class="form-group">
+                    <label for="reception-username">Username</label>
+                    <input type="text" id="reception-username" required>
+                </div>
+                <div class="form-group">
+                    <label for="reception-password">Password</label>
+                    <input type="password" id="reception-password" required>
+                </div>
+                <button class="submit-btn" onclick="handleLogin('reception')">Login</button>
+            </form>
+        </div>
+
+        <div id="emergencyLogin" class="login-container">
+            <div class="login-header">
+                <h2>Emergency Department</h2>
+                <p>Please login to access voicemails</p>
+            </div>
+            <form onsubmit="return false;">
+                <div class="form-group">
+                    <label for="emergency-username">Username</label>
+                    <input type="text" id="emergency-username" required>
+                </div>
+                <div class="form-group">
+                    <label for="emergency-password">Password</label>
+                    <input type="password" id="emergency-password" required>
+                </div>
+                <button class="submit-btn" onclick="handleLogin('emergency')">Login</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function showLogin(department) {
+            // Hide all login containers
+            document.querySelectorAll('.login-container').forEach(container => {
+                container.classList.remove('active');
+            });
+
+            // Show selected department login
+            document.getElementById(`${department}Login`).classList.add('active');
+        }
+
+        function handleLogin(department) {
+            const username = document.getElementById(`${department}-username`).value;
+            const password = document.getElementById(`${department}-password`).value;
+        
+            if (username && password) {
+                if (department === 'reception') {
+                    window.location.href = 'reception-dashboard';
+                } else if (department === 'pharmacy') {
+                    window.location.href = 'pharmacy-dashboard';
+                } else if (department === 'doctors') {
+                    window.location.href = 'doctors-dashboard';
+                } else if (department === 'emergency') {
+                    window.location.href = 'emergency-dashboard';
+                } else {
+                    alert(`Demo: Login attempted for ${department} department`);
+                }
+            } else {
+                alert('Please fill in all fields');
+            }
+        }
+    </script>
+</body>
+</html>
